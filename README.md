@@ -7,7 +7,7 @@
 *Grew up in Spain 🇪🇸 · Now building cool things at the University of Utah 🏔️*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-cobler)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio-url.co](https://ethancobler.github.io/Web-Portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://ethancobler.github.io/Web-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethancobler@gmail.com)
 
 </div>
@@ -23,8 +23,8 @@ ethan = {
     "based_in":   "Salt Lake City, UT",
     "fun_facts": [
         "⚽ Grew up playing soccer in Spain",
-        "🎮 Avid gamer (and yes, I built a Valorant ML model with it)",
-        "🌐 Loves learning new languages — human AND programming ones",
+        "🎮 Washed gamer (and yes, I built a Valorant ML model with it)",
+        "🌐 Love learning new languages — human AND programming ones",
         "📚 Can't stop picking up new skills",
     ],
     "currently":  "Exploring the intersection of CS, Data Science & FinTech"
