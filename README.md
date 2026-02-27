@@ -1,6 +1,6 @@
 <div align="center">
 
-# `< Hola, I'm Ethan Cobler />` 🌍⚽
+# Hey, I'm Ethan Cobler 🌍⚽
 
 ### CS Student · FinTech Minor · Perpetual Learner
 
