@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Ethan Cobler 👋
 
+## I am currently working on
+
+## My Projects
 <!--
 **EthanCobler/EthanCobler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
