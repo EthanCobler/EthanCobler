@@ -4,7 +4,7 @@
 
 ### CS Student · FinTech Minor · Perpetual Learner
 
-*Grew up in Spain 🇪🇸 · Now building cool things at the University of Utah 🏔️*
+*American-Spanish 🇺🇸 🇪🇸 · Now building cool things at the University of Utah 🏔️*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-cobler)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://ethancobler.github.io/Web-Portfolio/)
